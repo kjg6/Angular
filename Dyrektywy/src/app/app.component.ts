@@ -14,7 +14,7 @@ import { ClikedColorDirective } from './cliked-color.directive';
   styleUrl: './app.component.css'
 })
 export class AppComponent {
-  isVisible:boolean = false;
+  isVisible:boolean = false;  
   title = 'Dyrektywy';
   color:string   = 'yellow';
 }
